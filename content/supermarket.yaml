@@ -1,0 +1,5 @@
+train: /content/data/train.txt
+val: /content/data/val.txt
+
+nc: 1
+names: [Objects]
