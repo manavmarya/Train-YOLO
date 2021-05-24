@@ -14,3 +14,6 @@ github.com/ParallelDots/generic-sku-detection-benchmark/tree/master/annotatio…
 ## Training settings
 1. Training: Validation ratio is kept at 9:1
 2. Images are trained at 640x480 pixels with batch size = 8, epoch = 8 and using YOLOv5s as the default model
+
+## Output
+1. can be found inside /content/runs/detect/
